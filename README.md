@@ -1,5 +1,5 @@
 - Hi, I’m @cchris28
-- I’m interested in programming, electrical engineering, physics, lightning.
+- I’m interested in programming, electrical engineering, physics, lightning, astrophysics, astronomy.
 
 Oh gee. So much in my head and so little of general interest. I am working to correct.
 BTW, this README is almost certainly out of date.
